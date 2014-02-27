@@ -20,5 +20,5 @@
     },
     "suggest": {
         "unionofrad/lithium": "Lithium is required for this plugin."
-    },
+    }
 }
